@@ -2,3 +2,6 @@
 CardioTx/
 Data_*
 Data/
+*.log
+*_checkpoints
+*catboost_info

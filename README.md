@@ -35,3 +35,8 @@ The heart transplantation waiting time prediction model is based on data from th
 ## Results
 
 The logistic regression model achieved an F1 score of 69.8%, indicating its ability to accurately classify patients based on waiting time. The neural network architecture performed slightly better, with an F1 score of 71.3%.
+
+## Disclaimer
+
+The authors of this project do not advise the usage of the developed model in real-life scenarios without proper knowledge and examination of the underlying code. The model should be thoroughly evaluated, validated, and adapted to the specific requirements and data of the target application before any practical implementation.
+
